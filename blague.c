@@ -1,6 +1,7 @@
 int main(int argc, char const *argv[])
 {
-    return 1;
+    return 0;
+    //er'r'r'r'r'f
 }
-//hello
-//Léa le pilier qui crie sur les gens
+
+
